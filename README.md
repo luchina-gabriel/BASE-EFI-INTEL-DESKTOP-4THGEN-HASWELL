@@ -10,7 +10,7 @@ Initial macOS Support|OS X 10.8, Mountain Lion.
 # Basic Steps
 
 1. [Download](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-4THGEN-HASWELL/releases) the latest release;
-2. Include the necessary kext (for ethernet, audio, etc);
+2. Includes additional kexts (for ethernet, audio, etc);
 3. Include the necessary ACPI patches (.aml);
 4. Review the special notes;
 5. Generate and complete your SMBIOS infos;
